@@ -1,3 +1,4 @@
+set NLS_LANG=.US7ASCII
 set pagesize 0
 set term off
 set feed off
