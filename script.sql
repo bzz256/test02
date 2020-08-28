@@ -1,5 +1,7 @@
-set NLS_LANG=.AL32UTF8
+set linesize 0
 set pagesize 0
+set trimspool on
+set trimout on
 set term off
 set feed off
 
