@@ -1,4 +1,4 @@
-set NLS_LANG=.US7ASCII
+set NLS_LANG=.AL32UTF8
 set pagesize 0
 set term off
 set feed off
