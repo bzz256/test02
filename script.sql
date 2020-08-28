@@ -1,9 +1,11 @@
-set colsep ,
-set headsep off
+set colsep ','
+set echo off
+set feedback off
+set linesize 1000
 set pagesize 0
+set sqlprompt ''
 set trimspool on
-set linesize 2
-set numwidth 5
+set headsep off
 
 spool users.csv
 
@@ -12,4 +14,3 @@ FROM USERS;
 
 spool off;
 exit;
-
