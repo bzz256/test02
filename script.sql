@@ -1,4 +1,4 @@
-set colsep ,
+set colsep ','
 set headsep off
 set pagesize 0
 set trimspool on
